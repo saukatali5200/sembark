@@ -36,5 +36,5 @@ php artisan serve
 Frontend
 Server running on http://127.0.0.1:8000
 
-Admn Portal
+Admin Portal
 Server running on http://127.0.0.1:8000/adminpnlx
